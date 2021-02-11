@@ -1,0 +1,101 @@
+EDUCATION
+
+• 2005 – 2010: Bachelor Degree in Chemistry Engineering at “Gheorghe Asachi” University, Iasi
+
+LANGUAGES
+Romanian: Mother tongue
+English: Excellent
+Spanish: Good
+
+KNOWLEDGE
+• 6+ years of experience in software development and software engineering.
+• I like to study software architecture and design.
+TECHNICAL KNOWLEDGE
+Experience with following technologies:
+• Java (8,11), JavaEE 6
+• Oracle stack: database, esb, weblogic server
+• Frameworks: Spring Boot, Spring MVC, Spring Webflux, Reactor, JAX-RS
+• API: Swagger, OpenAPI
+• ORM: Hibernate
+• DB versioning: Flyway DB
+• DB: MySQL, PostgreSQL, Oracle databases, NoSQL (MongoDB)
+• Testing: Junit, Mockito, AssertJ, Spock
+• IntelliJ IDEA, Eclipse, Visual Studio Code, Sublime
+• Tools: Maven, Gradle, Ant
+• Front-end: JavaScript, Angular 6/7, HTML, CSS, ReactJS
+• JS Backend-end: NodeJS, Express
+• Other programming language: PHP, Symfony, Twig template engine
+• Caching: Redis, Memcached
+• Message Queuing protocols: amqp, mqtt (RabbitMQ, Eclipse Paho)
+• devops: Jenkins, Docker
+• GIT, SVN
+
+WORK EXPERIENCE
+October 2018 – present: Agile Developer at Cegeka
+
+Currently working on:
+July 2020 – February 2021
+Payroll engine: It is a very complex application that has multimple microservices that are event driven and REST, it follows Domain Driven Design approach for better understanding of domain model.
+Technologies and frameworks that I used are Spring boot, Apache Pulsar, database mysql , versioning based on Liquibase, integration tools like Jenkins, Sonarqube, Openshift, Kubernetes. I followed also Behavior driven design for testing.
+
+January 2019 – July 2020
+Alpega TWA & Carrier Allocation Engine: TWA is an application that is used in transportation across Europe, it has almost 20 years, it has a very complex business based on Oracle stack and Java EE 6, I learned to analyze and to solve complex tickets in an AGILE environment.
+
+Carrier Allocation Engine: is a module that it was extracted from TWA and turned in a microservice, the technology stack is the latest applied, it can be found in the enumeration below. Key features of this application is that is a very smart application that communicates trough http and SNS, SQS from Amazon services. Best practices were ensured on both projects (XP programming)
+Technologies used:
+- Java 11
+- Java 8
+- Java EE 6
+- Jersey (JAX-RS)
+- Oracle: ESB, database, weblogic 12
+- Spring Boot 2, Spring Data
+- JPA / Hibernate
+- DB versioning with FlywayDB
+- Amazon SQS & SNS
+- PostgreSQL 10
+- IntelliJ IDEA
+- Junit / Mockito / Spock Testing Framework
+- Jenkins , pipelines scripts
+- Sonarqube
+
+
+October 2018 – January 2019
+Internal Cegeka Events Dashboard: a web application with a landing page and registration forms for Bootcamp, Internship and different events promoted by Cegeka. It has an admin dashboard (CMS type), which is managing the content.
+Technologies used:
+- Java 10
+- Spring Boot 2, Spring Webflux, Spring Security, Spring Oauth2, Spring Data
+- JPA / Hibernate
+- DB versioning with FlywayDB
+- PostgreSQL 10
+- Velocity
+- JavaScript / Angular 7 / ES 6
+- Maven / Gradle
+- IntelliJ IDEA
+- Junit / Mockito
+- Reactor
+- Jenkins , pipelines scripts
+- Docker
+- Sonarqube
+
+April 2017 – October 2018: Agile Developer NTT Data
+The client was Daimler Finances Services (DFS) from Mercedes. I worked on an admin dashboard for deploy processes, reports, servers restarts, SQL dumps used by support team for WFS, it was made in java 7 with java ee. Other project that I worked it was a big application from 2008 with millions of lines of code written in PHP (Zend1, Zend2, Symfony, WebSphere, SOAP) also from DFS, this was a platform used by business analyst for financing dealerships around the world.
+- Java 7
+- Java EE
+- EJB
+- JDBC / Hibernate
+- Servlets / JSP / JSTL
+- PL/SQL / Oracle, MySQL
+- Ant
+SVN
+- Eclipse
+- PHP
+
+February 2014 – April 2017: Backend Developer at Xivic
+
+The project consists on a web application were customers can access / login. The client was Meineke Car Care Centers is a franchise based international automotive repair chain with more than 900 locations in US.
+
+- PHP 5.6/7, Symfony3, Doctrine ORM
+- NodeJS and Express for HTTP
+- MySQL, MongoDB
+- Redis cache
+- Twig template engine
